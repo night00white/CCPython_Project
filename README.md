@@ -8,11 +8,11 @@ Pseudocode:
 
 The goal of this program is to further develop and revise the Game of Life along with the Genetic Algorithm that I had tried to develop before in order to generate the ideal pattern through times of revolutions. The fitness of the pattern should be best achieved after the practice of the algorithms. 
  
-Game of life step using scipy tools
-From library import selected scipy tool
- Make a move forward according to Game of Life rules
-For x in range
-Return value
+Game of life step using scipy tools:
+   From library import selected scipy tool
+   Make a move forward according to Game of Life rules
+   For x in range
+   Return value
  Generating initial population of individual solutions
 If random state is defined
 Return: initial population as a list of set dimension arrays
